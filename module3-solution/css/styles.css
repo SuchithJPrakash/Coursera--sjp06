@@ -1,0 +1,64 @@
+body{
+	background-color:#DFABED;
+}
+#header-nav{
+	background-color:#EAEDAB;
+	position:relative;
+	border:solid black;
+}
+.container{
+	margin-bottom: 30px;
+}
+h1{
+	position:absolute;
+	top:2px;
+	left:4px;
+	margin:25px;
+	font:43px italic;
+}
+#t {
+	border:2px thin black;
+	background-color:#EDDDAB;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:12px;
+	width:85%;
+}
+#o{
+	font:25px oxygen;
+	word-wrap: break-word;
+	padding-left:2px;
+}
+#i{
+	font:bold 30px italic;
+}
+#l{
+	font:bold 38px "Times New Roman", serif;
+}
+.navbar-toggle {
+	background-color:orange;
+	margin-top: 32px
+}
+#chick{
+	background-color:white;
+	border:solid;
+	font:italic;
+}
+#bee{
+	background-color:pink;
+	border:solid;
+	font:italic;
+
+}
+#sush{
+	background-color:#FBFA9F;
+	border:solid;
+	font:italic;
+
+}
+
+#nav-list {
+	margin-top:0;
+	margin-bottom:0;
+	
+}
