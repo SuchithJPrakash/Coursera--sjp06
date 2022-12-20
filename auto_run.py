@@ -7,7 +7,7 @@ from pywinauto.keyboard import send_keys
 from datetime import datetime
 import argparse
 
-f=open(r"C:\Users\1000295835\Downloads\Oakgate_as_is.txt")
+f=open(r"C:\Users\1000295835\Downloads\Oakgate_as_is.tx")
 g=open(r"C:\Users\1000295835\Downloads\controller_features_testcases.txt")
 
 fr=f.readlines()
